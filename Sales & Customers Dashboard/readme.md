@@ -1,4 +1,5 @@
 **📊 Sales & Customer Insights Dashboard (Tableau)**
+
 This project features an interactive Tableau dashboard that delivers powerful insights into sales performance, customer behavior, and regional trends. Built to support data-driven decision-making, the dashboard empowers users to explore KPIs, identify growth opportunities, and monitor performance over time.
 
 **🚀 Project Overview**
