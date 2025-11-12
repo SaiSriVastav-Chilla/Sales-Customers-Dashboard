@@ -38,8 +38,11 @@ The dashboard consolidates key business metrics into two interactive views — S
 
 **🤝 Contribution**
 Contributions are welcome! If you’d like to enhance the dashboard or extend the analysis:
+
 Fork this repository
+
 Make your updates
+
 Submit a pull request
 
 **🌟 Inspiration**
