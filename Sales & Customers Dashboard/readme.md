@@ -8,32 +8,51 @@ The dashboard consolidates key business metrics into two interactive views — S
 **🧭 Key Features**
 
 **🛒 Sales Dashboard**
+
 -KPIs: Total Sales, Profit, Order Quantity
+
 -Trend Analysis: Track yearly sales performance (2020–2023 filters available)
+
 -Category & Product Insights: Identify top-performing and underperforming items
+
 -Geographic View: Visualize sales distribution across regions
+
 -Interactive Filters: Explore data by category, region, and time for detailed drilldowns
 
 **👥 Customer Dashboard**
+
 -KPIs: Customer Count, Average Order Value, Repeat Purchases
+
 -Customer Segmentation: Compare new vs. returning customers
+
 -Regional Insights: Analyze customer distribution across locations
+
 -Behavioral Analysis: Examine purchase frequency and recency
 
 **🧰 Tools & Technologies**
+
 -Tableau Desktop / Tableau Public	Visualization and dashboard creation
+
 -Tableau Hyper Extract	Data storage and performance optimization
+
 -GitHub	Project documentation
 
 **🧩 How to Use**
+
 1. Clone or download this repository.
+
 2. Open Sales & Customer Dashboard.twbx using Tableau Desktop or Tableau Public.
+
 3.Use filters (e.g., Year 2020–2023, Category, Region) to explore insights dynamically.
 
 **💡 Key Insights**
+
 -Sales Trends: Seasonal peaks and consistent year-over-year growth.
+
 -Profitability Patterns: Distinct leaders and laggards across product categories.
+
 -Customer Retention: Noticeable differences between new and loyal customers.
+
 -Regional Opportunities: Identification of underperforming markets with growth potential.
 
 **🤝 Contribution**
