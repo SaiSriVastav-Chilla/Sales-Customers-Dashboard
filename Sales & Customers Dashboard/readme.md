@@ -3,7 +3,7 @@
 This project features an interactive Tableau dashboard that delivers powerful insights into sales performance, customer behavior, and regional trends. Built to support data-driven decision-making, the dashboard empowers users to explore KPIs, identify growth opportunities, and monitor performance over time.
 
 **🚀 Project Overview**
-The dashboard consolidates key business metrics into two interactive views — Sales and Customer — enabling a holistic understanding of company performance. Users can filter by year, region, and product category to uncover actionable insights and patterns.
+The dashboard consolidates key business metrics into two interactive views: Sales and Customer, enabling a holistic understanding of company performance. Users can filter by year, region, and product category to uncover actionable insights and patterns.
 
 **🧭 Key Features**
 
